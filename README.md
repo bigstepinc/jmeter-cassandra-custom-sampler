@@ -1,7 +1,7 @@
-#Custom JMeter sampler for Cassandra/Datastax
+#Custom JMeter sampler for Cassandra/DataStax
 
-This is a custom java sampler class that can be used to benchmark Cassandra/Datastax.
-It was tested against Datastax 4.5
+This is a custom java sampler class that can be used to benchmark Cassandra/DataStax.
+It was tested against DataStax 4.5
 
 Version 0.1 (alpha) 
  
