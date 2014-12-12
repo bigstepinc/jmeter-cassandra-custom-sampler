@@ -33,7 +33,7 @@ sh ./bin/jmeter.sh
 Add a new jmeter Java sampler, use the com.bigstep.CasSampler class.
 ![Alt text](/img/jmeter1.png?raw=true "Select jmeter custom sampler")
 
-Configure your couchbase credentials and everything
+Configure the connection to Cassandra. To have multiple end-points you can use a comma separated list. 
 ![Alt text](/img/jmeter2.png?raw=true "Configure jmeter sampler")
 
 
